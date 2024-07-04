@@ -1,7 +1,11 @@
 **Name**: VENKATA GANESH VINJAMURU
+
 **Company**: CODTECH IT SOLUTIONS
+
 **ID**: CT08DS3762
+
 **Domain**: Embedded Systems
+
 **Duration**: July to August 2024
 
 **OVERVIEW OF THE PROJECT**
