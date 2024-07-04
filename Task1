@@ -1,0 +1,29 @@
+BLINK AN LED
+
+// Define the pin for the LED
+const int ledPin = 13; // LED connected to digital pin 13
+
+// Define the interval (in milliseconds)
+const long interval = 1000; // 1 second
+
+// Variables to track timing
+unsigned long previousMillis = 0; // Stores the last time the LED was updated
+
+void setup() {
+  // Set the LED pin as an output
+  pinMode(ledPin, OUTPUT);
+}
+
+void loop() {
+  // Get the current time
+  unsigned long currentMillis = millis();
+
+  // Check if it's time to toggle the LED
+  if (currentMillis - previousMillis >= interval) {
+    // Save the current time as the last time the LED was updated
+    previousMillis = currentMillis;
+
+    // Toggle the LED
+    digitalWrite(ledPin, !digitalRead(ledPin));
+  }
+}
