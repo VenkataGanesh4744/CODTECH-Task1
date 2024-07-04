@@ -10,6 +10,9 @@
 
 **OVERVIEW OF THE PROJECT**
 **Project: Arduino project to blink an LED**
+![TASK1 (1)](https://github.com/VenkataGanesh4744/CODTECH-Task1/assets/136093120/465ad535-ea6a-4d1a-8ff4-8c1dc18dac1d)
+![TASK1 (2)](https://github.com/VenkataGanesh4744/CODTECH-Task1/assets/136093120/175d49d5-a538-4674-881c-8724a57868da)
+
 
 **Overview of the Arduino LED Blinking Project**
 **Objective:**
